@@ -2,12 +2,11 @@
 2. Nitin
 7. Paritosh
 8. Ayush Gupta
+5. Sachin Ranjan
 9. Vibha Mishra
-
 14.Nishita Tolani
 3. Lakshay Gupta
 4. Divyansh
-5. Sachin Ranjan
 6. Hritik Khatri
 7. Paritosh
 8. Ayush Gupta
@@ -21,4 +20,5 @@
 17-vatsuvaksi@gmail.com
 20.YASHRAJ DIGHE
 21.Shashwat
+23.Ravi Sharma
 
