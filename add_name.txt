@@ -1,2 +1,18 @@
 1. Ritik Kanotra
+<<<<<<< HEAD
 2. Nitin
+=======
+7. Paritosh
+9. Vibha Mishra
+
+
+
+
+
+
+
+
+
+
+14.Nishita Tolani
+>>>>>>> 04db80b1b4b0e8ff95629491ac84d8f544efedcb
