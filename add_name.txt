@@ -2,6 +2,8 @@
 
 2. Nitin
 3. Lakshay Gupta
+4. Divyansh
+
 
 5. Sachin Ranjan
 6. Hritik Khatri
@@ -9,7 +11,7 @@
 8. Ayush Gupta
 9. Vibha Mishra
 
-
+11.Manvi Saxena
 
 
 
@@ -19,5 +21,6 @@
 
 
 12. Nadeem Jafar
+15.Ashutosh Choudhary
 
 
