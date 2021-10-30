@@ -1,11 +1,11 @@
 1. Ritik Kanotra
 2. Nitin
+3. Lakshay Gupta
 8. Ayush Gupta
 5. Sachin Ranjan
 9. Vibha Mishra
 14.Nishita Tolani
 7. Paritosh
-3. Lakshay Gupta
 4. Divyansh
 6. Hritik Khatri
 8. Ayush Gupta
@@ -15,6 +15,7 @@
 13. ekagrashukla2@gmail.com
 14.Nishita Tolani
 12. Nadeem Jafar
+13.Pranjal Sharma
 16.Ashutosh Choudhary
 17-vatsuvaksi@gmail.com
 18. Akshat Jain
@@ -22,4 +23,4 @@
 21.Shashwat
 22. Akshat Jain
 23.Ravi Sharma
-
+24.rashmita piplani
